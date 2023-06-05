@@ -1,1 +1,17 @@
+body{
+    background-color: #FFE4E4;
+}
 
+header{
+    height: 80px;
+}
+
+.container{
+    position: absolute;
+    width: 629px;
+    height: 90px;
+    left: 140px;
+    bottom: 420px;
+
+    background: #BDBDBD;
+}
